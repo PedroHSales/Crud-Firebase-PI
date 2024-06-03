@@ -1,8 +1,8 @@
-# CRUD Firebase 🔥
+# 🔥 CRUD Firebase
 
 Projeto de CRUD em HTML, CSS e JavaScript com o Firebase trabalho feito em grupo para a disciplina de programação para internet
 
-## Integrantes
+## 🙋‍♂️ Integrantes
 Pedro Henrique,
 João monteiro,
 Luis Henrique
